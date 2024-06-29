@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "node": "^20.15.0"
+  },
+  "name": "js---twice-as-old",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "devDependencies": {
+    "vitest": "^1.6.0"
+  },
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miharu669/JS---Twice-as-old.git"
+  },
+  "author": "vero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miharu669/JS---Twice-as-old/issues"
+  },
+  "homepage": "https://github.com/Miharu669/JS---Twice-as-old#readme",
+  "description": ""
+}
